@@ -8,7 +8,13 @@ ML classification algorithms using the sklearn libraries.
 - Decision Trees
 - Random Forest
 
-References & Links
+### Set-up GUI for the follwing user options:
+- hyperparameters
+- data preprocessing
+- plotting
+- performance metrics
+
+### References & Links
 
 - [Scikit-Learn](https://scikit-learn.org)
 - [Kaggle](https://www.kaggle.com/)
