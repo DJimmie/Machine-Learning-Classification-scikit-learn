@@ -18,3 +18,4 @@ ML classification algorithms using the sklearn libraries.
 
 - [Scikit-Learn](https://scikit-learn.org)
 - [Kaggle](https://www.kaggle.com/)
+- [ML Code Examples](https://github.com/ageron/handson-ml)
