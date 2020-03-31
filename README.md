@@ -7,6 +7,7 @@ ML classification algorithms using the sklearn libraries.
 - SVM
 - Decision Trees
 - Random Forest
+- Naive-Bayes
 
 ### Set-up GUI for the follwing user options:
 - hyperparameters
@@ -19,3 +20,7 @@ ML classification algorithms using the sklearn libraries.
 - [Scikit-Learn](https://scikit-learn.org)
 - [Kaggle](https://www.kaggle.com/)
 - [ML Code Examples](https://github.com/ageron/handson-ml)
+
+### Various ML Articles
+- [Why Logarithms Are So Important In Machine Learning](https://towardsdatascience.com/why-logarithms-are-so-important-in-machine-learning-6d2ff7930c8e)
+
