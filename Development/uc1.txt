@@ -1,0 +1,37 @@
+@startuml
+
+left to right direction
+skinparam packageStyle rectangle
+
+actor Me
+
+
+rectangle Jim's-ML-Tool {
+	Me -- (provide dataset)
+	Me -- (set model parameters)
+	Me -- (set report configuration)
+
+	(process data)
+
+	(execute ML models)
+
+	(generate results report)
+
+	note right of (provide dataset)
+		<b> .csv or pickle file only
+	end note
+
+	note right of (generate results report)
+		<b> PDF or HTML or Excel
+	end note
+
+
+
+
+
+  	
+}
+
+
+
+@enduml
